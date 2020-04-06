@@ -24,3 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período. Além disso visa aumentar as minhas habilidades como programador web.
+
+## Importe o ambiente de testes
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Aircnc&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fronnyacacio%2Faircnc%2Fmaster%2Finsomnia.json)
